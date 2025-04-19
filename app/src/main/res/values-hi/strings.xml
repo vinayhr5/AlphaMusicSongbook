@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">संगीत ऐप</string>
+    <string name="select_language">भाषा चुनें</string>
+    <string name="hindi_songs">हिंदी गाने</string>
+    <string name="english_songs">अंग्रेजी गाने</string>
+    <string name="search_songs">गाने खोजें</string>
+    <string name="no_songs_found">कोई गाना नहीं मिला</string>
+    <string name="app_logo">ऐप लोगो</string>
+    <string name="music_icon">संगीत आइकन</string>
+    <string name="change_language">भाषा बदलें</string>
+    <string name="language_english">English</string>
+    <string name="language_hindi">हिंदी</string>
+    <string name="back">वापस</string>
+    <string name="song_title">गाने का नाम</string>
+    <string name="song_detail">गाने का विवरण</string>
+</resources>

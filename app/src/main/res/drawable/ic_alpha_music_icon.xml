@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Background circle -->
+    <path
+        android:fillColor="#4A148C"
+        android:pathData="M54,0C83.8,0 108,24.2 108,54S83.8,108 54,108 0,83.8 0,54 24.2,0 54,0Z" />
+
+    <!-- Stylized 'A' letter -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,80L54,28L68,80H61L57,65H51L47,80Z M53.5,58L56.5,58L55,50Z" />
+
+    <!-- Music note -->
+    <path
+        android:fillColor="#FFEB3B"
+        android:pathData="M78,36V60c-2,-1.5 -4.4,-2.4 -7,-2.4 -5.5,0 -10,3.6 -10,8s4.5,8 10,8 10,-3.6 10,-8V44h10V36h-13Z" />
+</vector>

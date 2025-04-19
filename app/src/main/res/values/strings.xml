@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AlphaMusic</string>
+    <string name="select_language">Select Language</string>
+    <string name="hindi_songs">Hindi Songs</string>
+    <string name="english_songs">English Songs</string>
+    <string name="search_songs">Search songs</string>
+    <string name="no_songs_found">No songs found</string>
+    <string name="app_logo">App Logo</string>
+    <string name="music_icon">Music Icon</string>
+    <string name="change_language">Change Language</string>
+    <string name="language_english">English</string>
+    <string name="language_hindi">हिंदी</string>
+    <string name="back">Back</string>
+    <string name="song_title">Song Title</string>
+    <string name="song_detail">Song Detail</string>
+</resources>

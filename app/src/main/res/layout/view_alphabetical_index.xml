@@ -1,0 +1,137 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <TextView
+        android:id="@+id/text_a"
+        style="@style/AlphabetStyle"
+        android:text="A" />
+
+    <TextView
+        android:id="@+id/text_b"
+        style="@style/AlphabetStyle"
+        android:text="B" />
+
+    <TextView
+        android:id="@+id/text_c"
+        style="@style/AlphabetStyle"
+        android:text="C" />
+
+    <TextView
+        android:id="@+id/text_d"
+        style="@style/AlphabetStyle"
+        android:text="D" />
+
+    <TextView
+        android:id="@+id/text_e"
+        style="@style/AlphabetStyle"
+        android:text="E" />
+
+    <TextView
+        android:id="@+id/text_f"
+        style="@style/AlphabetStyle"
+        android:text="F" />
+
+    <TextView
+        android:id="@+id/text_g"
+        style="@style/AlphabetStyle"
+        android:text="G" />
+
+    <TextView
+        android:id="@+id/text_h"
+        style="@style/AlphabetStyle"
+        android:text="H" />
+
+    <TextView
+        android:id="@+id/text_i"
+        style="@style/AlphabetStyle"
+        android:text="I" />
+
+    <TextView
+        android:id="@+id/text_j"
+        style="@style/AlphabetStyle"
+        android:text="J" />
+
+    <TextView
+        android:id="@+id/text_k"
+        style="@style/AlphabetStyle"
+        android:text="K" />
+
+    <TextView
+        android:id="@+id/text_l"
+        style="@style/AlphabetStyle"
+        android:text="L" />
+
+    <TextView
+        android:id="@+id/text_m"
+        style="@style/AlphabetStyle"
+        android:text="M" />
+
+    <TextView
+        android:id="@+id/text_n"
+        style="@style/AlphabetStyle"
+        android:text="N" />
+
+    <TextView
+        android:id="@+id/text_o"
+        style="@style/AlphabetStyle"
+        android:text="O" />
+
+    <TextView
+        android:id="@+id/text_p"
+        style="@style/AlphabetStyle"
+        android:text="P" />
+
+    <TextView
+        android:id="@+id/text_q"
+        style="@style/AlphabetStyle"
+        android:text="Q" />
+
+    <TextView
+        android:id="@+id/text_r"
+        style="@style/AlphabetStyle"
+        android:text="R" />
+
+    <TextView
+        android:id="@+id/text_s"
+        style="@style/AlphabetStyle"
+        android:text="S" />
+
+    <TextView
+        android:id="@+id/text_t"
+        style="@style/AlphabetStyle"
+        android:text="T" />
+
+    <TextView
+        android:id="@+id/text_u"
+        style="@style/AlphabetStyle"
+        android:text="U" />
+
+    <TextView
+        android:id="@+id/text_v"
+        style="@style/AlphabetStyle"
+        android:text="V" />
+
+    <TextView
+        android:id="@+id/text_w"
+        style="@style/AlphabetStyle"
+        android:text="W" />
+
+    <TextView
+        android:id="@+id/text_x"
+        style="@style/AlphabetStyle"
+        android:text="X" />
+
+    <TextView
+        android:id="@+id/text_y"
+        style="@style/AlphabetStyle"
+        android:text="Y" />
+
+    <TextView
+        android:id="@+id/text_z"
+        style="@style/AlphabetStyle"
+        android:text="Z" />
+
+</LinearLayout>
